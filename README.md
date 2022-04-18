@@ -1,4 +1,16 @@
-### Hi there 👋
+### Ayo :eyes:
+
+- 🌱 I’m currently learning C#, SQL and TBB 
+- ⚡ Fun fact: I actually do have free time
+- :ferris_wheel: My hobbies:
+  - Playing video games
+  - Exercising
+  - Reading
+  - Drawing/coloring
+
+- :mortar_board: I'm interested in learning:
+  - Artificial intelligence
+  - Web development
 
 <!--
 **dracooya/dracooya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
